@@ -1,0 +1,19 @@
+/* Apply box-sizing border-box to all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set margin and padding to 100px for the html and body elements */
+  html, body {
+    margin:2px;
+    padding: 2px;
+  }
+  
+  /* Style for the #map element */
+  #map {
+    width: 1550px;
+    height: 600px;  
+  }
+  
